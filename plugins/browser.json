@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.inventory"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.inventory"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.inventory"
+        }
+    },
+    "dependent_plugins": {}
+}
